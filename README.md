@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📍 Johannesburg, South Africa
 
-🎓 Avuyile Chulayo is a disciplined and resilient ICT professional with strong interest in:
+🎓 Avuyile Chulayo a disciplined and resilient ICT professional with strong interest in:
 - Data Analytics & System Optimization
 - Database Systems 
 - Networking & Server Configuration
