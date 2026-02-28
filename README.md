@@ -1,20 +1,5 @@
 ## About ... 👋
 
-<!--
-**avuyile-cse/avuyile-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 📍 Johannesburg, South Africa
 
 🎓 Avuyile Chulayo a disciplined and resilient ICT professional with strong interest in:
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
 - Networking & Server Configuration
 - Automation 
 - Backend Development
-
+  
 ⚡ I enjoy building practical systems that integrate:
 - User Interfaces
 - Servers
