@@ -2,7 +2,7 @@
 
 📍 Johannesburg, South Africa
 
-🎓 Avuyile Chulayo a disciplined and resilient ICT professional with strong interest in:
+🎓 Avuyile Chulayo an experienced IT Support Engineer, disciplined and resilient ICT professional with strong interest in:
 - Data Analytics & System Optimization
 - Database Systems 
 - Networking & Server Configuration
