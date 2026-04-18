@@ -19,11 +19,11 @@
 👨‍💻 Tech Stack:
 - Languages: Python | Arduino C | SQL | HTML | CSS | JAVASCRIPT
 - Frameworks & Tools: Flask | Git | GitHub | MySQL | JSON
+- IT Support Engineer
 - Other Skills: Linux | Computer Networking | System Troubleshooting | Hardware Integration | Microcontroller (Arduino, Raspberry Pi, PLC)
 
 🚀 I am currently working on the following projects:
 - Access Guard Security System
-- Real-Time project progress
 
 🖋️ Current focus:
 - Strengthening data analytics skills
